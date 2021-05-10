@@ -1,0 +1,16 @@
+table,tr,td,tbody{
+    width: auto;
+    border: none;
+    border-collapse: collapse;
+    border:hidden;
+    font-size: 30px;
+    align-content: center;
+}
+.Login{
+    width:100%;
+    
+}
+text{
+    width: 20px;
+}
+  
